@@ -3,7 +3,7 @@
 Plugin Name: Plugin Activity Monitor
 Description: Tracks plugin activations, installations, and deletions with email notifications.
 Version: 1.0
-Author: Your Name
+Author: Patrick
 */
 
 // Store initial active plugins on activation
